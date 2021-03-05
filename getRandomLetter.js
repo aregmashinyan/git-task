@@ -1,8 +1,7 @@
 
-const random = () => {
-    return Math.random()
+const fn = () => {
+    return 'Random letter'
 }
 
-random()
-
-rabdom()
+fn()
+fn()

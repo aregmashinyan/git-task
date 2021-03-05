@@ -1,3 +1,4 @@
-const fn = () => {
-    return 'Random letter'
+
+const random = () => {
+    return Math.random()
 }
